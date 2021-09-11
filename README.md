@@ -1,4 +1,3 @@
-# Assignment-2
 1. Create a repository named as “Assignment 2” in github with Readme.md file,
 Questions must be paste in the readme file.
 2. Clone your repository.
@@ -13,4 +12,4 @@ Questions must be paste in the readme file.
 11. Write a meaningful commit message (e.g. "Answers question 1").
 12. check that your working directory is clean with git status.
 13. check that your commit succeeded as expected with git log
-14. Push your code up to a github repository.
+14. Push your code up to a github repository
